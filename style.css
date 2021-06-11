@@ -1,0 +1,19 @@
+body{
+    background-color: coral;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    color: gainsboro;
+    background-color: black;
+}
+a{
+    font-size:  px;
+    text-decoration: none;
+    color: black;
+}
+nav{
+    font-size: 33px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
