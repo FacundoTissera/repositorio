@@ -9,7 +9,10 @@ for (let i = 0; i < deportistas.length; i++) {
 
 // vemos quien es el ganador
 console.log(jugador.ganador(...deportistas));
-console.log("Suerte en el curso");
+
+//---------------------- ----------------------//
+//---------------------- ----------------------//
+//---------------------- ----------------------//
 
 //agrego alumnos a app - 10/06/21(FT)
 let alumno = [
