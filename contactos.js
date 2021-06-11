@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // importamos modulos del archivo
 let crearJugador = require("./function.js");
 
@@ -19,3 +20,14 @@ let diego = new crearJugador.Deportista("Diego", "Justo", "golf", 2);
 let deportistas = [pedro, juan, diego];
 
 module.exports = deportistas;
+=======
+let a = 'ho' ;
+let b = 'la' ;
+let saludar = a + b;
+
+console.log(saludar);
+
+console.log("este es el contacto");
+console.log("este es el contacto");
+console.log("modificacion Jorge");
+>>>>>>> 93ae1540b9ce32396e982fd860bc3af286937ec5
