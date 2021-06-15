@@ -1,19 +1,25 @@
 body{
-    background-color: coral;
+    background-image: url("01-768x432.jpg");
+    width: 100%;
+    height: 100%;
     text-align: center;
+    background-size: cover;
+    
 }
 h1{
+    
+    /* background-image: url(/imagenesParaWeb/fondo.png); */
     font-size: 40px;
     color: gainsboro;
     background-color: black;
 }
 a{
-    font-size:  px;
+    
     text-decoration: none;
     color: black;
 }
 nav{
     font-size: 33px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
+    background-color: aqua;
 }
