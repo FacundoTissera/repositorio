@@ -36,3 +36,4 @@ for (let i = 0; i < alumno.length; i++) {
   console.log(alumno[i]);
   console.log(" alumno" + " = " + alumno[i].nombres);
 }
+console.log(alumnos);
