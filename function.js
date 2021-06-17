@@ -9,7 +9,7 @@ function Deportista(nombre, apellido, deporte, titulos) {
 }
 
 // funcion para saber quien tiene mas titulos
-function ganador(...deportistas) {
+function ganador(deportistas) {
   let inicio = 0;
   let mensaje = "";
   for (let i = 0; i < deportistas.length; i++) {
